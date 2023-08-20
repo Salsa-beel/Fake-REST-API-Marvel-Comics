@@ -33,7 +33,8 @@
       "author": "Al Ewing ",
       "publicationYear": "June 06, 2018",
       "description": "The FIRST issue of the Immortal Hulk! Al Ewing and Joe Bennett's critically-acclaimed and best-selling Immortal Hulk series kicks off here with THE RETURN OF BRUCE BANNER! You know Bruce Banner. He's quiet, calm, never complains. He's a man who believes he can use the darkest elements of his personality to do good in the world. If someone were to shoot him in the head...all he'd do is die. But the horror lives deeper. A horror that refuses to die. When night falls something other than the man gets up again. The horror is the Immortal Hulk.",
-      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/50/5b0f16d976240/clean.jpg"
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/50/5b0f16d976240/clean.jpg",
+      "characterId": "3"
     },
     {
       "id": 5,
@@ -41,7 +42,8 @@
       "author": "Jason Aaron ",
       "publicationYear": "June 13, 2018",
       "description": "JASON AARON & MIKE DEL MUNDO TAKE THE PRINCE OF ASGARD IN A WHOLE NEW DIRECTION! Thor Odinson has regained his mantle – and with it, a wild new world of trouble on his mighty hands! The artifacts of Asgard have been scattered across the earth, and to reclaim them, Thor will have to face some ugly truths. Like the production cost of hundreds of new hammers! And the Thunder God is going to need every last one of them if he’s going to stop the unstoppable Juggernaut. Jason Aaron takes the Prince of Asgard in a whole new direction with YOUNG GUN artist Mike Del Mundo joining him at the helm! And don’t miss the latest chapter of the King Thor saga with acclaimed BLACK BOLT artist Christian Ward, as the Thor of the far future encounters an old friend who’s undergone some startling changes.",
-      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/6/20/5b17070d826eb/clean.jpg"
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/6/20/5b17070d826eb/clean.jpg",
+      "characterId": "11"
     },
     {
       "id": 6,
@@ -49,7 +51,8 @@
       "author": "Ta-Nehisi Coates",
       "publicationYear": "May 23, 2018",
       "description": "A bold new direction for the Black Panther! For years, T’Challa has fought off invaders from his homeland, protecting Wakanda from everything from meddling governments to long-lost gods. Now, he will discover that Wakanda is much bigger than he ever dreamed…Across the vast Multiverse lies an empire founded in T’Challa’s name. Readers caught a glimpse of it in MARVEL LEGACY #1. Now find out the truth behind the Intergalactic Empire of Wakanda! Ta-Nehisi Coates welcomes aboard fan-favorite artist Daniel Acuña for a Black Panther story unlike any other!",
-      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/f/b0/5afc7ec776ea2/clean.jpg"
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/f/b0/5afc7ec776ea2/clean.jpg",
+      "characterId": "4"
     },
     
     {
@@ -58,7 +61,8 @@
       "author": "Nnedi Okorafor ",
       "publicationYear": "October 17, 2018",
       "description": "FOLLOWING IN THE FOOTSTEPS OF THE BLACK PANTHER! The world fell in love with her in the movie. Now, the Black Panther's techno-genius sister launches her own adventures - written by best-selling Afrofuturist author Nnedi Okorafor and drawn by Eisner-nominated artist Leonardo Romero! The Black Panther has disappeared, lost on a mission in space. And in his absence, everyone's looking at the next in line for the throne. But Shuri is happiest in a lab, surrounded by gadgets of her own creation. She'd rather be testing gauntlets than throwing them. But a nation without a leader is a vulnerable one - and Shuri may have to choose between Wakanda's welfare and her own.",
-      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/7/20/5bbe6795328d7/clean.jpg"
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/7/20/5bbe6795328d7/clean.jpg",
+      "characterId": "4"
     },
     {
       "id": 8,
@@ -84,7 +88,8 @@
       "author": "Jason Aaron ",
       "publicationYear": "November 18, 2015",
       "description": "When DR. JANE FOSTER lifts the mystic hammer Mjolnir, she is transformed into the Goddess of Thunder, THE MIGHTY THOR! Her enemies are many, as Asgard descends further into chaos and war threatens to spread throughout the Ten Realms. Yet her greatest battle will be against a far more personal foe: the cancer that is killing her mortal form.",
-      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/4/03/564ca85300754/clean.jpg"
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/4/03/564ca85300754/clean.jpg",
+      "characterId": "11"
     },
     {
       "id": 11,
@@ -215,6 +220,10 @@
     {
         "id":"10",
         "name":"X-men"
+    },
+    {
+        "id":"11",
+        "name":"Thor"
     }  
 
 ] 
